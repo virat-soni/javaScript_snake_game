@@ -1,2 +1,2 @@
 # javaScript_snake_game
-javaScript snake game is not a REAL-WORLD-BASED game, but a survival simulation game set in virtuel world
+ https://virat-soni.github.io/javaScript_snake_game/
